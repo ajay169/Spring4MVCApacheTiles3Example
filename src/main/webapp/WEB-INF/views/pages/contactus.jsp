@@ -1,1 +1,1 @@
-<h2>UAT Logs</h2>
+<h2>UAT Logs Details</h2>
