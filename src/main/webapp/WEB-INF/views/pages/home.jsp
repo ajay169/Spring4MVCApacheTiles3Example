@@ -1,1 +1,1 @@
-<h2>Production Logs</h2>
+<h2>Production Logs details</h2>
